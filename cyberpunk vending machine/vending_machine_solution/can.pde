@@ -7,6 +7,7 @@ class Can {
   color canColor; //the color of our can
   float w = 95; //the width of the can
   float h = 55; //the height of the can
+  float wowThisIsInANewBranch;
 
   //the contructor
   Can(float x, float y, color col) {
